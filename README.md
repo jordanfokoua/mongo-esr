@@ -85,7 +85,7 @@ This dataset is designed for experimenting with query optimization techniques su
 - Applying range filters.  
 - Demonstrating performance differences between queries with and without indexes.  
 
-For a step-by-step guide to query optimization using this dataset, check out my blog post: [How we used the ESR rule to lift MongoDB queries performance](https://blog.jordanfokoua.dev)  
+For a step-by-step guide to query optimization using this dataset, check out my blog post: [How we used the ESR rule to lift MongoDB queries performance](blog.jordanfokoua.dev/optimize-mongo-queries-with-esr/)  
 
 ---
 
